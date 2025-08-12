@@ -40,15 +40,11 @@ I build clean, maintainable, data‑driven web apps and APIs. I enjoy turning bu
 - **Emoji Translator (C++)** — Trie‑based O(n) lookup to convert emoji sequences to readable text.  
 - **ComunicArte CMS (ASP.NET MVC, SCRUM)** — Eight‑person capstone for a local NGO; led sprint planning & QA.
 
-> 🔖 Pin these repos to your profile once pushed (Profile → Customize → Pinned → Select).  
-> If any project isn’t public yet, create a short README for each with: problem → solution → tech → screenshots/gifs.
 
 ---
 
 ## 📈 GitHub Stats (auto‑generated)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamilGarcia&layout=compact)  
-
-> If any image fails to load, it’s likely a third‑party rate limit. It’ll come back on refresh.
 
 ---
 
